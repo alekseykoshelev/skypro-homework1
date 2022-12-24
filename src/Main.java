@@ -6,5 +6,10 @@ public class Main {
 
         var cat = "Кошка";
         System.out.println(cat);
+
+        var dog = "Собака";
+        System.out.println(dog);
+        System.out.println(dog);
+        System.out.println(cat);
     }
 }
